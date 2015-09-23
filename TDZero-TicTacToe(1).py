@@ -2,6 +2,10 @@ import numpy as np
 import copy
 from random import randrange
 
+import game.py
+import arena.py
+import gym.py
+
 """
 
 Piece State,
