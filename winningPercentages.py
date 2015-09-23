@@ -142,10 +142,7 @@ def winningPercent(QQ, Qrand1, Qrand2, t, states):
   print "Trained player first: ", resultPR
   print ""
   print "TrainedRandom first: ",resultRP
-  
-  """
-  
-  
+
   #----------------------------------------------------------------------------------------------------
   #	This section plots a learning curve on a 
   #	graph to show the amount of wins vs how many 
