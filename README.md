@@ -1,6 +1,6 @@
 # Tic_Tac_Toe_SuperComputer
 
-This is a script that trains a computer to play Tic Tac Toe using a hidden markov model. The script can be executed using the TicTacToe.py file. 
+This is a script that trains a computer to play Tic Tac Toe using a temporal difference method. The script can be executed using the TicTacToe.py file. 
 
 The script first creates all possible game states. The computer then uses a reward based system to train against a random computer. The computer trains going both first and second.
 
